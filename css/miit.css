@@ -210,7 +210,7 @@ body>a:hover{
     .slick-next{
         width: 10%;
     }
-    footer p{
+    .foot{
         font-size: 50%;
     }
 }
@@ -246,7 +246,7 @@ body>a:hover{
         padding-top: 11px;
         padding-bottom: 11px;
     }
-    footer p{
+    .foot{
         font-size: 30%;
     }
 }
