@@ -243,14 +243,6 @@ body>a:hover{
         padding-top: 11px;
         padding-bottom: 11px;
     }
-    .for_new_slider .nitems section{
-        border: solid 7px #F0F0F0;
-        width: 70%;
-        height: 20%;
-        margin: 0 auto;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
     .for_slick_slider .items section{
     border: solid 7px #f0f0f0;
     width: 70%;
@@ -259,6 +251,14 @@ body>a:hover{
     margin-top: 2%;
     margin-bottom: 2%;
 }
+    .for_new_slider .nitems section{
+        border: solid 7px #F0F0F0;
+        width: 70%;
+        height: 20%;
+        margin: 0 auto;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
 }
 
 
