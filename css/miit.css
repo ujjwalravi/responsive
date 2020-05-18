@@ -210,6 +210,9 @@ body>a:hover{
     .slick-next{
         width: 10%;
     }
+    footer p{
+        font-size: 30%;
+    }
 }
 @media screen and (max-width: 700px){
     .msword{
