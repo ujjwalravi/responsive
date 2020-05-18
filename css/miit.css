@@ -242,7 +242,10 @@ body>a:hover{
         margin-left: 32%;
         padding-top: 11px;
         padding-bottom: 11px;
-    } 
+    }
+    footer p{
+        font-size: 50%;
+    }
 }
 
 
